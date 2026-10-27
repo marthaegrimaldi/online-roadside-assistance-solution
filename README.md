@@ -2,4 +2,4 @@
   
   ![Online Roadside Assistance Solution](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/martha/Online%20Roadside%20Assistance%20Solution.webp) 
   
-  The Online Roadside Assistance Solution frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=martha-online-roadside-assistance-solution" target="_blank">click here</a>.
+  The Online Roadside Assistance Solution frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=martha-online-roadside-assistance-solution" target="_blank">click here</a>.
